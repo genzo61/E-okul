@@ -1,0 +1,16 @@
+C:\Users\aliha\OneDrive\Masaüstü\okulproje\okulproje\bin\Debug\okulproje.exe.config
+C:\Users\aliha\OneDrive\Masaüstü\okulproje\okulproje\bin\Debug\okulproje.exe
+C:\Users\aliha\OneDrive\Masaüstü\okulproje\okulproje\bin\Debug\okulproje.pdb
+C:\Users\aliha\OneDrive\Masaüstü\okulproje\okulproje\obj\Debug\okulproje.csproj.AssemblyReference.cache
+C:\Users\aliha\OneDrive\Masaüstü\okulproje\okulproje\obj\Debug\okulproje.Form1.resources
+C:\Users\aliha\OneDrive\Masaüstü\okulproje\okulproje\obj\Debug\okulproje.Properties.Resources.resources
+C:\Users\aliha\OneDrive\Masaüstü\okulproje\okulproje\obj\Debug\okulproje.csproj.GenerateResource.cache
+C:\Users\aliha\OneDrive\Masaüstü\okulproje\okulproje\obj\Debug\okulproje.csproj.CoreCompileInputs.cache
+C:\Users\aliha\OneDrive\Masaüstü\okulproje\okulproje\obj\Debug\okulproje.exe
+C:\Users\aliha\OneDrive\Masaüstü\okulproje\okulproje\obj\Debug\okulproje.pdb
+C:\Users\aliha\OneDrive\Masaüstü\okulproje\okulproje\obj\Debug\okulproje.frmogrencinotlar.resources
+C:\Users\aliha\OneDrive\Masaüstü\okulproje\okulproje\obj\Debug\okulproje.frmöğretmen.resources
+C:\Users\aliha\OneDrive\Masaüstü\okulproje\okulproje\obj\Debug\okulproje.frmkulup.resources
+C:\Users\aliha\OneDrive\Masaüstü\okulproje\okulproje\obj\Debug\okulproje.frmdersler.resources
+C:\Users\aliha\OneDrive\Masaüstü\okulproje\okulproje\obj\Debug\okulproje.frmöğrenci.resources
+C:\Users\aliha\OneDrive\Masaüstü\okulproje\okulproje\obj\Debug\okulproje.frmsınavnotlar.resources
